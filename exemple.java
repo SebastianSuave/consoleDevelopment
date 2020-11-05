@@ -15,8 +15,7 @@ public class exemple {
 		} else {
 			System.out.println("\033[34m" + "Del 1-10 porfavor, cara alcachofa");
 			usrNum = scanner.nextInt();
-			System.out.println("\033[35" + "Mmmm, nice papita")
+			System.out.println("\033[35" + "Mmmm, nice papita");
 		}
 	}
 }
-
